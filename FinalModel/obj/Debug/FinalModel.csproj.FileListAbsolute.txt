@@ -1,0 +1,11 @@
+C:\Users\RBT\source\repos\FinalModel\FinalModel\bin\Debug\FinalModel.exe.config
+C:\Users\RBT\source\repos\FinalModel\FinalModel\bin\Debug\FinalModel.exe
+C:\Users\RBT\source\repos\FinalModel\FinalModel\bin\Debug\FinalModel.pdb
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.csproj.AssemblyReference.cache
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.Form1.resources
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.Properties.Resources.resources
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.csproj.GenerateResource.cache
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.csproj.CoreCompileInputs.cache
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.exe
+C:\Users\RBT\source\repos\FinalModel\FinalModel\obj\Debug\FinalModel.pdb
